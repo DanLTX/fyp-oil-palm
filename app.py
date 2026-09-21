@@ -20,7 +20,7 @@ def get_model():
 model = get_model()
 
 # ── Header ──
-st.title("🌴 Oil Palm Tree Health Classification test")
+st.title("🌴 Oil Palm Tree Health Classification")
 st.markdown("Upload up to **5 aerial drone images** to classify oil palm tree health.")
 st.markdown("---")
 
