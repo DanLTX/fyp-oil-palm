@@ -7,7 +7,7 @@ from report import generate_pdf
 
 # ── Page config ──
 st.set_page_config(
-    page_title = "Oil Palm Health Classifier",
+    page_title = "Oil Palm Health Classifier test",
     page_icon  = "🌴",
     layout     = "wide"
 )
