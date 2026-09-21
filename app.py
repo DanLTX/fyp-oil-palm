@@ -7,7 +7,7 @@ from report import generate_pdf
 
 # ── Page config ──
 st.set_page_config(
-    page_title = "Oil Palm Health Classifier test",
+    page_title = "Oil Palm Health Classifier",
     page_icon  = "🌴",
     layout     = "wide"
 )
@@ -20,7 +20,7 @@ def get_model():
 model = get_model()
 
 # ── Header ──
-st.title("🌴 Oil Palm Tree Health Classification")
+st.title("🌴 Oil Palm Tree Health Classification test")
 st.markdown("Upload up to **5 aerial drone images** to classify oil palm tree health.")
 st.markdown("---")
 
