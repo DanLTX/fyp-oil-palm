@@ -1,7 +1,0 @@
-streamlit
-ultralytics
-sahi
-opencv-python-headless
-Pillow
-reportlab
-numpy
